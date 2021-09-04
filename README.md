@@ -59,3 +59,10 @@ On line 48 & 49 you will find a anchor tag & a p tag.
                 nisi, vel mattis sem. Sed tellus nulla.</p>
 ```
 Where it says "M1raculous" is where it displays the persons name. Under that line you can see some text that isn't readable. You can describe the perons and his/hers tasks. Repeat this step.
+
+
+
+# PLEASE NOTE!!!
+There may be bugs, report them and i will *maybe* fix them. Remember this is a *free* website. Don't expect good support. This website is **NOT** responsive.
+
+Made by **M1raculous#1337**
