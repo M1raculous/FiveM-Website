@@ -61,7 +61,13 @@ On line 48 & 49 you will find a anchor tag & a p tag.
 Where it says "href="https://discord.com/users/415443330026045440">" replace the staff's discord id. so: href="https://discord.com/users/StaffID">
 Where it says "M1raculous" is where it displays the persons name. Under that line you can see some text that isn't readable. You can describe the perons and his/hers tasks. Repeat this step.
 
-
+Scroll down to line 146
+```html
+ <iframe src="https://discord.com/widget?id=878959343712751636&theme=dark" width="300" height="225"
+            allowtransparency="true" frameborder="0"
+            sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+```
+where it says `https://discord.com/widget?id=878959343712751636&theme=dark` you need to change ?id= to you *server id*.
 
 # PLEASE NOTE!!!
 There may be bugs, report them and i will *maybe* fix them. Remember this is a *free* website. Don't expect good support. This website is **NOT** responsive.
