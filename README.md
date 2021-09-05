@@ -58,6 +58,7 @@ On line 48 & 49 you will find a anchor tag & a p tag.
               <p class="mt-2 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel pulvinar
                 nisi, vel mattis sem. Sed tellus nulla.</p>
 ```
+Where it says "<a href="https://discord.com/users/415443330026045440">" replace the staff's discord id. so: <a href="https://discord.com/users/StaffID">
 Where it says "M1raculous" is where it displays the persons name. Under that line you can see some text that isn't readable. You can describe the perons and his/hers tasks. Repeat this step.
 
 
