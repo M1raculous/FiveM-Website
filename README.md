@@ -70,6 +70,6 @@ Scroll down to line 146
 where it says `https://discord.com/widget?id=878959343712751636&theme=dark` you need to change ?id= to you *server id*.
 
 # PLEASE NOTE!!!
-There may be bugs, report them and i will *maybe* fix them. Remember this is a *free* website. Don't expect good support. This website is **NOT** responsive.
+There may be bugs, report them and i will *maybe* fix them. Remember this is a *free* website. Don't expect good if any support. This website is **NOT** responsive.
 
 Made by **M1raculous#1337**
